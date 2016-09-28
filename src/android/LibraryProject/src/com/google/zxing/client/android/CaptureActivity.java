@@ -114,7 +114,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private CaptureActivityHandler handler;
   private Result savedResultToShow;
   private ViewfinderView viewfinderView;
-  private TextView statusView;
+  //private TextView statusView;
   private Button flipButton;
   private View resultView;
   private Result lastResult;
@@ -185,7 +185,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     viewfinderView.setCameraManager(cameraManager);
 
     resultView = findViewById(fakeR.getId("id", "result_view"));
-    statusView = (TextView) findViewById(fakeR.getId("id", "status_view"));
+    //statusView = (TextView) findViewById(fakeR.getId("id", "status_view"));
 
     handler = null;
     lastResult = null;
@@ -240,7 +240,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         
         String customPromptMessage = intent.getStringExtra(Intents.Scan.PROMPT_MESSAGE);
         if (customPromptMessage != null) {
-          statusView.setText(customPromptMessage);
+          //statusView.setText(customPromptMessage);
         }
 
       } else if (dataString != null &&
@@ -495,7 +495,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
   // Put up our own UI for how to handle the decoded contents.
   private void handleDecodeInternally(Result rawResult, ResultHandler resultHandler, Bitmap barcode) {
-    statusView.setVisibility(View.GONE);
+    //statusView.setVisibility(View.GONE);
     viewfinderView.setVisibility(View.GONE);
     resultView.setVisibility(View.VISIBLE);
 
@@ -597,7 +597,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     // barcode was found (e.g. contact info) rather than the full contents, which they won't
     // have time to read.
     if (resultDurationMS > 0) {
-      statusView.setText(getString(resultHandler.getDisplayTitle()));
+      //statusView.setText(getString(resultHandler.getDisplayTitle()));
     }
 
 //    if (copyToClipboard && !resultHandler.areContentsSecure()) {
@@ -751,8 +751,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
   private void resetStatusView() {
     resultView.setVisibility(View.GONE);
-    statusView.setText(fakeR.getId("string", "msg_default_status"));
-    statusView.setVisibility(View.VISIBLE);
+    //statusView.setText(fakeR.getId("string", "msg_default_status"));
+    //statusView.setVisibility(View.VISIBLE);
     viewfinderView.setVisibility(View.VISIBLE);
     lastResult = null;
   }
