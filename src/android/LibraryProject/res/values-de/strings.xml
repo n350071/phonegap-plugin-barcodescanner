@@ -68,7 +68,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadaten</string>
   <string name="msg_default_mms_subject">Hi</string>
-  <string name="msg_default_status">Positionieren Sie den Barcode innerhalb des Rechteckes.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Zeit</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Aus den Daten kann kein Barcode erzeugt werden.</string>

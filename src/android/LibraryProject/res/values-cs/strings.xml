@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formát</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Ahoj</string>
-  <string name="msg_default_status">Strefte se čtverečkem na čárový kód</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Čas</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Nepodařilo se rozkódovat čárový kód z poskytnutých údajů.</string>

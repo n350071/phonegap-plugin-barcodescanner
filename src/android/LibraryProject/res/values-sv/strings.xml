@@ -68,7 +68,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hej</string>
-  <string name="msg_default_status">Placera steckkoden inom sökarens rektangel för att läsa den.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tid</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Det gick inte att avkoda en streckkod från den erhållna informationen.</string>

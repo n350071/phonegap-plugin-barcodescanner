@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formát</string>
   <string name="msg_default_meta">Metadáta</string>
   <string name="msg_default_mms_subject">Ahoj</string>
-  <string name="msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Čas</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov.</string>

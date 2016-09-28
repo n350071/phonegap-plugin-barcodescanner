@@ -68,7 +68,7 @@
   <string name="msg_default_format">Bentuk</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hai</string>
-  <string name="msg_default_status">Letakkan barcode di dalam kotak jendela untuk memindai.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Waktu</string>
   <string name="msg_default_type">Tipe</string>
   <string name="msg_encode_contents_failed">Tidak dapat meng-encode barcode dari data yang diberikan.</string>

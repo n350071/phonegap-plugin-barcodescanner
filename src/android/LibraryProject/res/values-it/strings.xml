@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formato</string>
   <string name="msg_default_meta">Metadati</string>
   <string name="msg_default_mms_subject">Ciao</string>
-  <string name="msg_default_status">Posiziona un codice a barre dentro il mirino rettangolare per la scansione.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tempo</string>
   <string name="msg_default_type">Tipo</string>
   <string name="msg_encode_contents_failed">Impossibile codificare un codice a barre dai dati forniti.</string>

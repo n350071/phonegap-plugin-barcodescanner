@@ -68,7 +68,7 @@
   <string name="msg_default_format">포맷</string>
   <string name="msg_default_meta">메타데이터</string>
   <string name="msg_default_mms_subject">안녕하세요</string>
-  <string name="msg_default_status">바코드를 사각형 안에 비춰주세요.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">시간</string>
   <string name="msg_default_type">종류</string>
   <string name="msg_encode_contents_failed">주어진 데이터로 바코드를 만들지 못하였습니다.</string>

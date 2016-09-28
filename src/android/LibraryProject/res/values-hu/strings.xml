@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formátum</string>
   <string name="msg_default_meta">Metaadatok</string>
   <string name="msg_default_mms_subject">Szia</string>
-  <string name="msg_default_status">Pozícionálja a vonalkódot a kereső téglalapba a szkenneléshez.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Idő</string>
   <string name="msg_default_type">Típus</string>
   <string name="msg_encode_contents_failed">Nem sikerült létrehozni a vonalkódot a megadott adatokból.</string>

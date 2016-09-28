@@ -68,7 +68,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metapodatki</string>
   <string name="msg_default_mms_subject">Živjo</string>
-  <string name="msg_default_status">Za branje postavite črtno kodo znotraj iskala.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Čas</string>
   <string name="msg_default_type">Tip</string>
   <string name="msg_encode_contents_failed">Ni bilo mogoče narediti črtne kode iz podanih podatkov</string>

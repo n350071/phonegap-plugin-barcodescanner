@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formaat</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hallo</string>
-  <string name="msg_default_status">Plaats een barcode binnen de rechthoek om deze te scannen.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tijd</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Kan geen barcode genereren op basis van de opgegeven gegevens.</string>

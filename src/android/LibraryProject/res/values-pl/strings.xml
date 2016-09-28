@@ -68,7 +68,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadanych</string>
   <string name="msg_default_mms_subject">Cześć</string>
-  <string name="msg_default_status">Umieść kod paskowy w prostokącie wizjera aby zeskanować.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Czas</string>
   <string name="msg_default_type">Typ</string>
   <string name="msg_encode_contents_failed">Nie można zakodować kodu paskowego z dostarczonych danych.</string>

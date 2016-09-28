@@ -68,7 +68,7 @@
   <string name="msg_default_format">Formatua</string>
   <string name="msg_default_meta">Metadatuak</string>
   <string name="msg_default_mms_subject">Kaixo</string>
-  <string name="msg_default_status">Kokatu barra-kode bat laukizuzenaren barruan eskaneatzeko.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Denbora</string>
   <string name="msg_default_type">Mota</string>
   <string name="msg_encode_contents_failed">Ezin izan da barra-kode bat kodetu emandako datuetatik.</string>

@@ -68,7 +68,7 @@
   <string name="msg_default_format">Muoto</string>
   <string name="msg_default_meta">Metatiedot</string>
   <string name="msg_default_mms_subject">Hei</string>
-  <string name="msg_default_status">Aseta viivakoodi neliön sisälle skannataksesi sen.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Aika</string>
   <string name="msg_default_type">Tyyppi</string>
   <string name="msg_encode_contents_failed">Viivakoodia ei voitu muodostaa annetusta datasta.</string>

@@ -68,7 +68,7 @@
   <string name="msg_default_format">Формат</string>
   <string name="msg_default_meta">Допълнение</string>
   <string name="msg_default_mms_subject">Здравейте</string>
-  <string name="msg_default_status">Сложете баркода вътре в правоъгълника за да го сканирате.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Време</string>
   <string name="msg_default_type">Тип</string>
   <string name="msg_encode_contents_failed">Неуспешно кодиране на подадените данни.</string>

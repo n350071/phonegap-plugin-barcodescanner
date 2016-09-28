@@ -68,7 +68,7 @@
   <string name="msg_default_format">格式</string>
   <string name="msg_default_meta">後設資料</string>
   <string name="msg_default_mms_subject">哈囉</string>
-  <string name="msg_default_status">將條碼置於鏡頭範圍內以進行掃描。</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">時間</string>
   <string name="msg_default_type">類型</string>
   <string name="msg_encode_contents_failed">無法讀取條碼。</string>

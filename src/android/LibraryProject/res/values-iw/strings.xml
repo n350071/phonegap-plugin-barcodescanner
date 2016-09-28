@@ -68,7 +68,7 @@
   <string name="msg_default_format">פורמט</string>
   <string name="msg_default_meta">מטה-נתונים</string>
   <string name="msg_default_mms_subject">היי</string>
-  <string name="msg_default_status">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">זמן</string>
   <string name="msg_default_type">סוג</string>
   <string name="msg_encode_contents_failed">לא היתה אפשרות לקודד ברקוד מהנתונים שסופקו.</string>

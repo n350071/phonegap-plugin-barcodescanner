@@ -68,7 +68,7 @@
   <string name="msg_default_format">Biçim</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Merhaba</string>
-  <string name="msg_default_status">Barkodu taramak için vizördeki dikdörtgenin içerisine yerleştirin.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Süre</string>
   <string name="msg_default_type">Tür</string>
   <string name="msg_encode_contents_failed">Sağlanan verilerden bir barkod kodlanamadı.</string>

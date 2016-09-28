@@ -68,7 +68,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hej</string>
-  <string name="msg_default_status">Placér en stregkode inden i firkanten for at aflæse den.</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">Tid</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Kunne ikke indkode en stregkode fra oplysningerne givet.</string>
