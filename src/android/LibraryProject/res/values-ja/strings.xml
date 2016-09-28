@@ -68,7 +68,7 @@
   <string name="msg_default_format">フォーマット</string>
   <string name="msg_default_meta">メタデータ</string>
   <string name="msg_default_mms_subject">こんにちは！</string>
-  <string name="msg_default_status">QRコードを画面の読み取り範囲内に写すとスキャンします。</string>
+  <string name="msg_default_status"></string>
   <string name="msg_default_time">時間</string>
   <string name="msg_default_type">タイプ</string>
   <string name="msg_encode_contents_failed">このデータからQRコードを作成できませんでした。</string>
